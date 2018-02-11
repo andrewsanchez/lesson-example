@@ -29,7 +29,8 @@
 [rubygems]: https://rubygems.org/pages/download/
 [styles]: https://github.com/swcarpentry/styles/
 [training]: http://swcarpentry.github.io/instructor-training/
-[workshop-repo]: {{ site.workshop_repo }}
+[workshop-repo]: https://github.com/swcarpentry/workshop-template
 [yaml]: http://yaml.org/
 [coc]: https://software-carpentry.org/conduct/
 [coc-reporting]: https://software-carpentry.org/CoC-reporting/
+[lesson-example]: https://swcarpentry.github.io/lesson-example/
